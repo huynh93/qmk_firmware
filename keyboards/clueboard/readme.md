@@ -7,6 +7,7 @@ Clueboard makes fully customizable custom keyboards in a variety of form-factors
   * [`17`](17/): Clueboard "Cluepad" PCB
   * [`2x1800`](2x1800/): Clueboard 2x1800 PCB
   * [`60`](60/): Clueboard 60% PCB
+  * [`30key_knob`](30key_knob/): Clueboard 60% PCB
   * [`66`](66/): Clueboard 66% PCB
   * [`66_hotswap`](66_hotswap/): Clueboard 66% USB-C Hotswappable PCB
   * [`card`](card/): Special Cluecard PCB
